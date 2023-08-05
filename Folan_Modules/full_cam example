@@ -1,0 +1,153 @@
+##########
+receiver_artery_id:86
+receiver_sumo_id:carla0
+receiver_long:-55.4875
+receiver_lat:0.00151326
+receiver_speed:0.0012207
+ITS PDU Header: 
+Protocol Version: 2
+Message ID: 2
+Station ID: 156
+CoopAwarensess: 
+Generation Delta Time: 8606
+Basic Container: 
+Station Type: 5
+Reference Position: 
+Longitude: -554885110
+Latitude: 7420
+Semi Major Orientation: 3601
+Semi Major Confidence: 4095
+Semi Minor Confidence: 4095
+Altitude [Confidence]: 800001 [15]
+High Frequency Container [Basic Vehicle]: 
+Heading [Confidence]: 358 [10]
+Speed [Confidence]: 26 [3]
+Drive Direction: 0
+Longitudinal Acceleration [Confidence]: 2 [102]
+Vehicle Length [Confidence Indication]: 1023 [0]
+Vehicle Width: 62
+Curvature [Confidence]: 0 [7]
+Curvature Calculation Mode: 0
+Yaw Rate [Confidence]: 0 [0]
+Low Frequency Container: 
+Vehicle Role: 0
+Exterior Lights: 8
+Path history point: 
+Latitude: 131072
+Longitude: 131072
+Altitude: 12800
+Delta time: 10
+Path history point: 
+Latitude: 131072
+Longitude: 131072
+Altitude: 12800
+Delta time: 20
+Path history point: 
+Latitude: 131072
+Longitude: 131072
+Altitude: 12800
+Delta time: 30
+Path history point: 
+Latitude: 131072
+Longitude: 131072
+Altitude: 12800
+Delta time: 40
+Path history point: 
+Latitude: 131072
+Longitude: 131072
+Altitude: 12800
+Delta time: 50
+Path history point: 
+Latitude: 131072
+Longitude: 131072
+Altitude: 12800
+Delta time: 60
+Path history point: 
+Latitude: 131072
+Longitude: 131072
+Altitude: 12800
+Delta time: 70
+Path history point: 
+Latitude: 131072
+Longitude: 131072
+Altitude: 12800
+Delta time: 80
+Path history point: 
+Latitude: 131072
+Longitude: 131072
+Altitude: 12800
+Delta time: 90
+Path history point: 
+Latitude: 131072
+Longitude: 131072
+Altitude: 12800
+Delta time: 100
+Path history point: 
+Latitude: 131072
+Longitude: 131072
+Altitude: 12800
+Delta time: 110
+Path history point: 
+Latitude: 131072
+Longitude: 131072
+Altitude: 12800
+Delta time: 120
+Path history point: 
+Latitude: 131072
+Longitude: 131072
+Altitude: 12800
+Delta time: 130
+Path history point: 
+Latitude: 131072
+Longitude: 131072
+Altitude: 12800
+Delta time: 140
+Path history point: 
+Latitude: 131072
+Longitude: 131072
+Altitude: 12800
+Delta time: 150
+Path history point: 
+Latitude: 131072
+Longitude: 131072
+Altitude: 12800
+Delta time: 160
+Path history point: 
+Latitude: 131072
+Longitude: 131072
+Altitude: 12800
+Delta time: 170
+Path history point: 
+Latitude: 131072
+Longitude: 131072
+Altitude: 12800
+Delta time: 180
+Path history point: 
+Latitude: 131072
+Longitude: 131072
+Altitude: 12800
+Delta time: 190
+Path history point: 
+Latitude: 131072
+Longitude: 131072
+Altitude: 12800
+Delta time: 200
+Path history point: 
+Latitude: 131072
+Longitude: 131072
+Altitude: 12800
+Delta time: 210
+Path history point: 
+Latitude: 131072
+Longitude: 131072
+Altitude: 12800
+Delta time: 220
+Path history point: 
+Latitude: 131072
+Longitude: 131072
+Altitude: 12800
+Delta time: 230
+Special Vehicle Container: not present
+
+##########
+
